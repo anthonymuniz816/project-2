@@ -1,3 +1,7 @@
+//Anthony Muniz
+//CS 303
+//10/18
+
 #include <iostream>
 #include <string>
 #include "Employee.h"
